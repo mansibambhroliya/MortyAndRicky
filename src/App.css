@@ -1,0 +1,81 @@
+.go{
+    margin-left: 20px;
+  }
+  .logo{
+    border-radius: 50px;
+    /* background-color: rgb(31, 30, 30); */
+    /* backdrop-filter:invert(80%); */
+     /* mix-blend-mode: darken; */
+  }
+  
+  .head{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .main_btn{
+    border-color: orange;
+    background-color: white;
+    border-radius: 10px;
+    padding: 
+    +0px 20px;
+  }
+  .ricky{
+    padding-top: 80px !important;
+    padding-bottom: 70px;
+    font-size: 90px;
+    font-weight: bold;
+    font-family: Cambria ;
+  }
+  
+  .spacer{
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .background{
+    background-color: rgba(12, 11, 11,0.9);
+  }
+  
+  img{
+   border-radius: 8px 0px 0px 8px; 
+  }
+  
+  .bg-img{
+    background-color: rgba(146, 138, 138, 0.2);
+    border-radius: 8px;
+  }
+  
+  .contain{
+    padding: 10px;
+  }
+  
+  .font-name{
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 28px;
+  }
+  .orande-hover:hover{
+    color: orange;
+  }
+  
+  .font-white{
+    color: aliceblue;
+    /* font-weight: bolder; */
+  }
+  
+  .font-gray{
+    color: rgba(116, 133, 150,0.5);
+    font-weight: bold;
+  }
+  
+  .circle{
+    /* background-color: green; */
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
